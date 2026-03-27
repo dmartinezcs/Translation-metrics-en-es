@@ -16,5 +16,8 @@ Not working properly in codespaces (RAM amount is too small and terminates in co
 ## Meteor
 Working properly
 
-
-
+## Texts
+The text are three corpus as to try all possibilities in the written language
+A coloquial/simple one
+A technical/engineering one
+A philosphical/emotional one

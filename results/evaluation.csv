@@ -1,4 +1,4 @@
 Source (EN),Reference (ES),Candidate (ES),BLEU,METEOR,BERTScore_F1,COMET
-Hello world,Hola mundo,Hola mundo,0.0,0.9375,1.0,
-This is a test,Esto es una prueba,Esto es prueba,0.0,0.6553,0.929,
-I want to learn Python,Quiero aprender Python,Quiero aprender a programar en Python,0.0,0.7744,0.8918,
+Hello world,Hola mundo,Hola mundo,0.0,0.9375,1.0,1.3241
+This is a test,Esto es una prueba,Esto es prueba,0.0,0.6553,0.929,1.2113
+I want to learn Python,Quiero aprender Python,Quiero aprender a programar en Python,0.0,0.7744,0.8918,1.0749

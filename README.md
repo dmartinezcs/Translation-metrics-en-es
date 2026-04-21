@@ -4,20 +4,20 @@ All of the .py write in the same .csv
 
 
 ## Bert
-Working properly
+Working properly (May take a while)
 
 ## BLEU
 Working properly
 
 ## Comet
-Not working properly in codespaces (RAM amount is too small and terminates in comet_model line 13)
+Working properly (RAM amount is too small in codespaces, therefore using lowest ram consuming model)
 
 
 ## Meteor
 Working properly
 
 ## Texts
-The text are three corpus as to try all possibilities in the written language
-A coloquial/simple one
-A technical/engineering one
+The text shall be three corpus as to try all possibilities in the written language<br/>
+A coloquial/simple one<br/>
+A technical/engineering one<br/>
 A philosphical/emotional one

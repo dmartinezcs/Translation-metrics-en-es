@@ -1,9 +1,9 @@
 # Translation metrics
 For now the code of each of the metrics is executed in each own .py
-All of the .py write in the same .csv
+All of the .py write in the same .csv (recomended to delete content when re-executing scripts)
 
 ## Candidates
-Google Translate
+DeepL
 
 ## Bert
 Working properly (May take a while)

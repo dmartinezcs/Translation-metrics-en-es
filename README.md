@@ -2,6 +2,8 @@
 For now the code of each of the metrics is executed in each own .py
 All of the .py write in the same .csv
 
+## Candidates
+Google Translate
 
 ## Bert
 Working properly (May take a while)
@@ -21,3 +23,13 @@ The text shall be three corpus as to try all possibilities in the written langua
 A coloquial/simple one<br/>
 A technical/engineering one<br/>
 A philosphical/emotional one
+
+## How to make the project work
+
+/scripts level
+python -m pip install nltk bert-score unbabel-comet torch transformers sentencepiece
+python evaluate_[metric].py 
+python ./evaluate_[metric].py 
+
+Process may take a while depending on metric (comet may require various executions)
+results appear in evaluation.csv

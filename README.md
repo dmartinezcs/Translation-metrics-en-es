@@ -26,10 +26,10 @@ A philosphical/emotional one
 
 ## How to make the project work
 
-/scripts level
-python -m pip install nltk bert-score unbabel-comet torch transformers sentencepiece
-python evaluate_[metric].py 
-python ./evaluate_[metric].py 
+/scripts level<br/>
+python -m pip install nltk bert-score unbabel-comet torch transformers sentencepiece<br/>
+python evaluate_[metric].py <br/>
+python ./evaluate_[metric].py <br/>
 
-Process may take a while depending on metric (comet may require various executions)
+Process may take a while depending on metric (comet may require various executions)<br/>
 results appear in evaluation.csv

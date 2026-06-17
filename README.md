@@ -20,9 +20,9 @@ Working properly
 
 ## Texts
 The text shall be three corpus as to try all possibilities in the written language<br/>
-A coloquial/simple one<br/>
-A technical/engineering one<br/>
-A philosphical/emotional one
+A coloquial/simple one; The Curious Incident of the Dog in the Night-Time <br/>
+A technical/engineering one; Clean Code <br/>
+A philosphical/emotional one; An Enquiry Concerning Human Understanding 
 
 ## How to make the project work
 
